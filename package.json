@@ -1,0 +1,22 @@
+{
+  "name": "gcodewriter",
+  "version": "0.0.0",
+  "description": "node scripts to aid in generation of gcode files",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "~1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtudury/gcodewriter.git"
+  },
+  "author": "David Tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/gcodewriter/issues"
+  }
+}
